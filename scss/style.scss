@@ -9,7 +9,7 @@ $mid: #3498DB;
 $light: #2980B9;
 $radius: 7px;
 
-header#top	{
+header	{
 	color: $white;
 	nav	{
 		padding-top: 20px;
@@ -60,20 +60,20 @@ section	{
 		text-transform: uppercase;
 		font-size: 3em;
 		padding: 5px;
-		margin-top: 40px;
+		margin-top: 30px;
 	}
 	
 	article	{
 		h2	{
 			font-size: 2em;
-			padding-top: 20px;
 			font-weight: bold;
-			margin-bottom: 5px;
+			padding-top: 20px;
 		}
 		h3	{
 			font-size: 1.5em;
 			padding-bottom: 5px;
 			font-weight: lighter;
+			margin-top: -5px;
 		}
 		p	{
 			text-align: justify;

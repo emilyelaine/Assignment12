@@ -46,7 +46,7 @@ header {
   color: #ECF0F1; }
   header nav {
     padding-top: 20px;
-    padding-bottom: 20px; }
+    padding-bottom: 10px; }
     header nav li {
       display: inline;
       margin-right: 15px;
@@ -87,7 +87,7 @@ section {
   section article h2 {
     font-size: 2em;
     font-weight: bold;
-    padding-top: 20px; }
+    padding-top: 30px; }
   section article h3 {
     font-size: 1.5em;
     padding-bottom: 5px;

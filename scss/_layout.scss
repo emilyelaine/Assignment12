@@ -1,4 +1,5 @@
 $radius: 20px;
+$smallradius: 10px;
 $mid: #3498DB;
 
 html {
@@ -33,9 +34,9 @@ article	{
 }
 
 section h1	{
-	-webkit-border-radius: $radius;
-	-moz-border-radius: $radius;
-	-ms-border-radius: $radius;
-	border-radius: $radius;
+	-webkit-border-radius: $smallradius;
+	-moz-border-radius: $smallradius;
+	-ms-border-radius: $smallradius;
+	border-radius: $smallradius;
 }
   
